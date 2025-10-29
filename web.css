@@ -2,19 +2,32 @@
     color: #deeaee;
     text-align: center;
     background-color: #034f84;
+    font-size:40px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding:60px;
+}
+
+.iconBar{
+    background-color: #92a8d1;
+    padding:10px;
+    border-color:#034f84;
+    border-radius: 5px;
+}
+
+.personalBio {
+    color: #deeaee;
+    text-align: center;
+    background-color: #034f84;
     font-size:30px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
 }
 
-.body{
-    background-color: #92a8d1;
-}
-
 .fa {
     padding: 20px;
-    font-size: 30px;
+    font-size: 60px;
     width: 30px;
     text-align: center;
     text-decoration: none;
