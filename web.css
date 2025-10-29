@@ -2,5 +2,8 @@
     color: #deeaee;
     text-align: center;
     background-color: #034f84;
-    font-size:30px
+    font-size:30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    padding:60px;
 }
