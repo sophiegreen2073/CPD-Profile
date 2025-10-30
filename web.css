@@ -24,6 +24,14 @@
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
+    display: inline-block;
+    width:60%;
+}
+
+.imageDiv{
+    vertical-align: top;
+    display:inline-block;
+    width:40%;
 }
 
 .border{
@@ -42,6 +50,8 @@
     border-radius: 50%;
     border-style:solid;
 }
+
+
 
 .fa {
     padding: 20px;
