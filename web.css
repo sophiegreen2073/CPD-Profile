@@ -26,12 +26,20 @@
     padding:60px;
     display: inline-block;
     width:60%;
+    border-color:#034f84;
+    border-width: 5px;
+    border-style: solid;
 }
 
 .imageDiv{
-    vertical-align: top;
     display:inline-block;
-    width:40%;
+    width:31%;
+    background-color: #b1cbbb;
+    vertical-align:top;
+    border-color:#034f84;
+    border-width: 5px;
+    border-style: solid;
+    
 }
 
 .border{
@@ -46,7 +54,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 250px;
+    width: 233px;
     border-radius: 50%;
     border-style:solid;
 }
