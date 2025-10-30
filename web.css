@@ -2,7 +2,7 @@
     color: #deeaee;
     text-align: center;
     background-color: #034f84;
-    font-size:60px;
+    font-size:40px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:40px;
@@ -24,16 +24,16 @@
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
-    width:80%;
-    border-radius:5px;
-    border-style:solid
+    width:450px
 }
 
-.profileImage {
-    width:10%;
-    float:right;
-    border-style:solid;
-    border-radius:50%
+.ProfileImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    border-radius: 50%;
+    padding: 20px;
 }
 
 .fa {
@@ -81,6 +81,6 @@
     visibility: visible;
 }
 
-.fade {
-    opacity:1
+.fade{
+    opacity: 1;
 }
