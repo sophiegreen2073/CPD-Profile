@@ -17,7 +17,7 @@
 }
 
 .personalBio {
-    color: #f7786b;
+    color: #034f84;
     text-align: center;
     background-color: #b1cbbb;
     font-size:20px;
@@ -29,6 +29,9 @@
 .border{
     height:30px;
     background-color:#92a8d1;
+    border-color:#034f84;
+    border-width: 5px;
+    border-style: solid;
 }
 
 .profileImage {
