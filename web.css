@@ -19,7 +19,7 @@
 .personalBio {
     color: #deeaee;
     text-align: center;
-    background-color: #034f84;
+    background-color: #b1cbbb;
     font-size:30px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -47,4 +47,26 @@
 .fa-github {
     background: black;
     color: white;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltiptext{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
