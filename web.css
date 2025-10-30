@@ -1,5 +1,5 @@
 .header {
-    color: #f7cac9;
+    color: #deeaee;
     text-align: center;
     background-color: #034f84;
     font-size:40px;
@@ -41,7 +41,7 @@
     width: 250px;
     border-radius: 50%;
     border-style:solid;
-    float: left
+    float: right
 }
 
 .fa {
