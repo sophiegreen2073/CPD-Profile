@@ -1,5 +1,5 @@
 .header {
-    color: #deeaee;
+    color: #f7cac9;
     text-align: center;
     background-color: #034f84;
     font-size:40px;
@@ -17,23 +17,28 @@
 }
 
 .personalBio {
-    color: #deeaee;
+    color: #f7786b;
     text-align: center;
     background-color: #b1cbbb;
     font-size:20px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
-    width:450px
 }
 
-.ProfileImage {
+.border{
+    height:30px;
+    background-color:#92a8d1;
+}
+
+.profileImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 250px;
     border-radius: 50%;
-    padding: 20px;
+    border-style:solid;
+    float: left
 }
 
 .fa {
@@ -81,6 +86,3 @@
     visibility: visible;
 }
 
-.fade{
-    opacity: 1;
-}
