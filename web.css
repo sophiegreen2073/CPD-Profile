@@ -48,8 +48,6 @@
     box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
 }
 
-
-
 .fa {
     padding: 20px;
     font-size: 60px;
@@ -105,8 +103,30 @@
     width:33.33%;
 }
 
+.leftThird{
+    float:left;
+    width:28;
+    text-align: center;
+}
+
+.centerThird{
+    float:center;
+    width:28%;
+    text-align: center;
+}
+
+.rightThird{
+    float:right;
+    width:28%;
+    text-align: center;
+}
+
 .wrapper{
     border-color:#22223b;
     border-width: 5px;
     border-style: solid;
+}
+
+.card{
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
 }
