@@ -100,3 +100,12 @@
     visibility: visible;
 }
 
+.RightTwoThird{
+    float:right;
+    width:66.66%;
+}
+
+.LeftOneThird{
+    float:left;
+    width:33.33%;
+}
