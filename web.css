@@ -1,7 +1,7 @@
 .header {
-    color: #deeaee;
+    color: #f2e9e4;
     text-align: center;
-    background-color: #034f84;
+    background-color: #22223b;
     font-size:40px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
@@ -9,37 +9,31 @@
 }
 
 .iconBar{
-    background-color: #92a8d1;
+    background-color: #c9ada7;
     padding:10px;
-    border-color:#034f84;
+    border-color:#22223b;
     border-width: 5px;
     border-style: solid;
 }
 
 .personalBio {
-    color: #034f84;
+    color: #f2e9e4;
     text-align: center;
-    background-color: #b1cbbb;
+    background-color: #4a4e69;
     font-size:20px;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
-    border-color:#034f84;
-    border-width: 5px;
-    border-style: solid;
 }
 
 .imageDiv{
-    border-color:#034f84;
-    border-width: 5px;
-    border-style: solid;
-    background-color: #b1cbbb;
+    background-color: #4a4e69;
 }
 
 .border{
     height:30px;
-    background-color:#92a8d1;
-    border-color:#034f84;
+    background-color:#c9ada7;
+    border-color: #22223b;
     border-width: 5px;
     border-style: solid;
 }
@@ -108,4 +102,10 @@
 .LeftOneThird{
     float:left;
     width:33.33%;
+}
+
+.wrapper{
+    border-color:#22223b;
+    border-width: 5px;
+    border-style: solid;
 }
