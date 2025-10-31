@@ -24,6 +24,7 @@
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
     padding:60px;
+    overflow:hidden
 }
 
 .imageDiv{
@@ -107,21 +108,27 @@
     float:left;
     width:28%;
     text-align: center;
-    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    margin:2%;
+    padding:10px;
 }
 
 .MiddleThird{
-    float:center;
+    float:left;
     width:28%;
     text-align: center;
-    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    margin:2%;
+    padding:10px
 }
 
 .RightThird{
     float:right;
     width:28%;
     text-align: center;
-    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19)
+    box-shadow:0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    margin:2%;
+    padding:10px
 }
 
 .wrapper{
