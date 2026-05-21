@@ -1,0 +1,12 @@
+# ROS2 / Gazebo / Colcon build artifacts
+build/
+install/
+log/
+
+# OS / IDE artifacts
+.DS_Store
+.vscode/
+
+# Large media files (only track your compressed versions)
+*.mov
+*.avi
